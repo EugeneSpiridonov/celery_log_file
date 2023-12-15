@@ -1,0 +1,5 @@
+first: first
+meow: meow
+сяоеу!!!!: иеее анннннни!!!!!!!!!
+SUCCESS!!!!!: YEEEEAH!!!!
+last: last
